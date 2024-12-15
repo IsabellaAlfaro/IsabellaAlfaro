@@ -13,6 +13,7 @@ As part of the Break Through Tech AI Program, my team and I developed a solution
 
 ## Contact Me
 [Connect with me on LinkedIn](https://www.linkedin.com/in/isabella-s-alfaro/)
+
 [isabella.s.alfaro@gmail.com](mailto:isabella.s.alfaro@gmail.com)  
 <!--
 **IsabellaAlfaro/IsabellaAlfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
