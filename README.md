@@ -14,7 +14,10 @@ As part of the Break Through Tech AI Program, my team and I developed a solution
 ## Contact Me
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/isabella-s-alfaro/)
 
-📧 [Isabella.S.Alfaro@gmail.com](mailto:Isabella.S.Alfaro@gmail.com)  
+📧 [Isabella.S.Alfaro@gmail.com](mailto:Isabella.S.Alfaro@gmail.com)
+
+## Fun Fact
+💡 I’m a huge fan of Transformers and enjoy exploring the intersection of technology and creativity. I also love 3D printing!
 <!--
 **IsabellaAlfaro/IsabellaAlfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
