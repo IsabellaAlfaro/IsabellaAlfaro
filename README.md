@@ -1,22 +1,19 @@
-## Hi there 👋
+## Hi, I'm Isabella Alfaro! 👋
 
-I'm Isabella Alfaro, a junior studying computer science at Queens College. I'm passionate about human-robot interaction, AI, and using technology to solve real-world problems. Currently, I’m part of Break Through Tech AI, working on AI-driven projects.
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/isabella-s-alfaro/)
-
-📧 Email: [isabella.s.alfaro@gmail.com](mailto:isabella.s.alfaro@gmail.com)  
+## About Me
+I'm a junior at Queens College, pursuing a degree in computer science. I'm passionate about human-robot interaction, artificial intelligence, and applying technology to solve real-world problems. Through the Break Through Tech AI Program, I have worked on exciting projects involving machine learning and natural language processing.
 
 ## AI Studio Challenge Project
-ASAPP Machine Learning Challenge Project (Break Through Tech AI Program):  
-Check out my team's project repository for the real-world ML project we worked on for ASAPP during the Fall 2024 AI Studio program!
-
+As part of the Break Through Tech AI Program, my team and I developed a solution to extract structured data from conversational logs using advanced NLP techniques.
 👉 [Project Repository Link](https://github.com/AhmedHajAhmed/ASAPP-1A-conversations2structured.git)
-
-This project focused on extracting structured data from conversational logs using advanced NLP techniques.
 ### My contributions:
-  - Processed raw JSON files and mapped abstract "targets" to human-readable labels.
-  - Enhanced the data pipeline by standardizing inputs and validating schema adherence.
-  - Collaborated on model evaluation using precision, recall, and F1-score metrics.
+- Processed raw JSON files and mapped abstract "targets" to human-readable labels, enhancing data clarity for analysis and ML training.
+- Enhanced the data pipeline by cleaning noisy data, standardizing input formats, and validating schema adherence.
+- Collaborated on model evaluation using precision, recall, and F1-score metrics.
+
+## Contact Me
+[Connect with me on LinkedIn](https://www.linkedin.com/in/isabella-s-alfaro/)
+[isabella.s.alfaro@gmail.com](mailto:isabella.s.alfaro@gmail.com)  
 <!--
 **IsabellaAlfaro/IsabellaAlfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
