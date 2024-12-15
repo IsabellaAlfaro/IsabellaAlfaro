@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Isabella Alfaro, a junior studying computer science at Queens College. I'm passionate about human-robot interaction, AI, and using technology to solve real-world problems. Currently, I’m part of Break Through Tech AI, working on AI-driven projects.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/isabella-s-alfaro/)
+
+📧 Email: [isabella.s.alfaro@gmail.com](mailto:isabella.s.alfaro@gmail.com)  
+
 ## AI Studio Challenge Project
 ASAPP Machine Learning Challenge Project (Break Through Tech AI Program):  
 Check out my team's project repository for the real-world ML project we worked on for ASAPP during the Fall 2024 AI Studio program!  
