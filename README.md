@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## AI Studio Challenge Project
+ASAPP Machine Learning Challenge Project (Break Through Tech AI Program):  
+Check out my team's project repository for the real-world ML project we worked on for ASAPP during the Fall 2024 AI Studio program!  
+👉 [Project Repository Link](https://github.com/AhmedHajAhmed/ASAPP-1A-conversations2structured.git)
+
 <!--
 **IsabellaAlfaro/IsabellaAlfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
