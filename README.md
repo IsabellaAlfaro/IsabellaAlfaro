@@ -10,16 +10,11 @@ I'm Isabella Alfaro, a junior studying computer science at Queens College. I'm p
 ASAPP Machine Learning Challenge Project (Break Through Tech AI Program):  
 Check out my team's project repository for the real-world ML project we worked on for ASAPP during the Fall 2024 AI Studio program!  
 👉 [Project Repository Link](https://github.com/AhmedHajAhmed/ASAPP-1A-conversations2structured.git)
-### My Contributions:
-- Processed raw JSON files containing conversation logs, enhancing data clarity by mapping abstract "targets" to human-readable labels, such as converting "return_size" to "Process Return."
-- Identified and documented metadata such as null values and numerical fields in "targets" arrays, highlighting their potential relevance for analysis.
-- Contributed to schema validation efforts to ensure data outputs adhered to predefined formats.
-- Enhanced the preprocessing pipeline by cleaning noisy data and standardizing input formats for consistency across models.
-### Key Findings and Results:
-- Top Performance: GPT-4 (Few-Shot) achieved an F1 score of 0.9967, making it the most accurate and comprehensive model for structured data extraction.
-- Model Comparisons: Larger models (e.g., GPT-4, Gemma2 9B) outperformed smaller ones in precision and recall, especially in zero-shot and few-shot prompting tasks.
-- Prompting Techniques: Few-shot prompting consistently yielded the best results, outperforming Chain of Thought (CoT) and zero-shot techniques.
-- Efficiency vs. Performance: Mid-sized models like Gemma2 2B offered a balance between computational efficiency and strong performance, suitable for resource-limited scenarios.
+- This project focused on extracting structured data from conversational logs using advanced NLP techniques.
+- My contributions:
+  - Processed raw JSON files and mapped abstract "targets" to human-readable labels.
+  - Enhanced the data pipeline by standardizing inputs and validating schema adherence.
+  - Collaborated on model evaluation using precision, recall, and F1-score metrics.
 <!--
 **IsabellaAlfaro/IsabellaAlfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
