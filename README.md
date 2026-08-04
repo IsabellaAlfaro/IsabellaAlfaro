@@ -1,34 +1,57 @@
-## Hi, I'm Isabella Alfaro! 👋
+# Hi, I'm Isabella Alfaro! 👋
 
 ## About Me
-I'm a junior at Queens College, pursuing a degree in computer science. I'm passionate about human-robot interaction, artificial intelligence, and applying technology to solve real-world problems. Through the Break Through Tech AI Program, I have worked on exciting projects involving machine learning and natural language processing.
 
-## AI Studio Challenge Project
-As part of the Break Through Tech AI Program, my team and I developed a solution to extract structured data from conversational logs using advanced NLP techniques.
-👉 [Project Repository Link](https://github.com/AhmedHajAhmed/ASAPP-1A-conversations2structured.git)
-### My contributions:
-- Processed raw JSON files and mapped abstract "targets" to human-readable labels, enhancing data clarity for analysis and ML training.
-- Enhanced the data pipeline by cleaning noisy data, standardizing input formats, and validating schema adherence.
-- Collaborated on model evaluation using precision, recall, and F1-score metrics.
+I'm a Psychology student at Queens College with a minor in Computer Science. My research interests lie at the intersection of artificial intelligence, psychology, neuroscience, and human-robot interaction (HRI). I'm passionate about developing human-centered technologies and using computational methods to better understand human behavior, cognition, and health.
 
-## Contact Me
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/isabella-s-alfaro/)
+I'm particularly interested in interdisciplinary research that combines AI with psychology and neuroscience, and I hope to pursue a PhD in Human-Robot Interaction or Human-Centered Technology in the future.
 
-📧 [Isabella.S.Alfaro@gmail.com](mailto:Isabella.S.Alfaro@gmail.com)
+---
 
-## Fun Fact
-💡 I’m a huge fan of Transformers and enjoy exploring the intersection of technology and creativity. I also love 3D printing!
-<!--
-**IsabellaAlfaro/IsabellaAlfaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research
 
-Here are some ideas to get you started:
+### 📄 VariantBench (IJCNLP-AACL 2025 Student Research Workshop)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Co-author of **VariantBench: A Framework for Evaluating LLMs on Justifications for Genetic Variant Interpretation**, a benchmark for evaluating large language models on transparent, rule-based reasoning for clinical genomics.
+
+**Publication:** https://aclanthology.org/2025.ijcnlp-srw.26/
+
+**GitHub:** https://github.com/Humair112/VariantBench
+
+---
+
+### 🤖 Break Through Tech AI – AI Studio
+
+Collaborated with ASAPP through Cornell Tech's Break Through Tech AI Program on an NLP project focused on extracting structured information from conversational data.
+
+**My contributions:**
+- Processed and standardized JSON datasets
+- Mapped abstract targets to human-readable labels
+- Cleaned and validated data pipelines
+- Collaborated on model evaluation using precision, recall, and F1-score
+
+**Project Repository:**  
+https://github.com/AhmedHajAhmed/ASAPP-1A-conversations2structured
+
+---
+
+## Research Interests
+
+- Human-Robot Interaction (HRI)
+- Human-Centered AI
+- Artificial Intelligence
+- Developmental Psychology
+- Cognitive Neuroscience
+- Machine Learning
+- Natural Language Processing
+- AI for Healthcare
+
+---
+
+## Contact
+
+**LinkedIn:**  
+https://www.linkedin.com/in/isabella-s-alfaro/
+
+**Email:**  
+Isabella.S.Alfaro@gmail.com
